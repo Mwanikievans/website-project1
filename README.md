@@ -1,13 +1,29 @@
-# website-project1
 
+
+<!-- Basic HTML Structure -->
 <!DOCTYPE html>
-<html>
-<head>
- <title>A Meaningful Page Title</title>
-</head>
-<body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My First Web</title>
+  </head>
+  <body>
+    <!-- Your Content Goes in Here -->
 
-The content of the document......
+    <!-- Writing Hello using <h> tag -->
+    <h1>Hello</h1>
 
-</body>
-</html> 
+    <!-- Writing Hello using th <p> tag -->
+    <p>Hello</p>
+
+    <!-- Sample content -->
+    <h1>Welcome To My Wesite</h1>
+    <p>This is a Simple Paragraph</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </body>
+</html>
